@@ -1,9 +1,9 @@
 {
-  "name": "ng-jhipster",
-  "description": "A Jhipster util library for Angular 2",
+  "name": "ng-utils",
+  "description": "A util library for Angular 2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhipster/ng-jhipster.git"
+    "url": "https://github.com/chenflat/ng-utils.git"
   },
   "keywords": [
     "jhipster",
